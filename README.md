@@ -1,16 +1,6 @@
-# wisata_semilir
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# semilir
+Dwi Krisnandi
+3.34.21.3.08
+IK-2D
+## Pertemuan ke 8
+![alt text](https://user-images.githubusercontent.com/116879948/201964482-ac2a6617-9271-47b5-be53-7dad88e21499.pnghttps://user-images.githubusercontent.com/116879948/201964482-ac2a6617-9271-47b5-be53-7dad88e21499.png)
